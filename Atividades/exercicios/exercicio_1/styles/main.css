@@ -1,12 +1,42 @@
-body{
-    background-color: #ccc;
+body {
+  background-color: #282a36;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
+
 .container {
+  background-color: #44475a;
+  border: 0.2rem #f8f8f2 solid;
+  border-radius: 20px;
+  padding: 0.5rem;
+  border-radius: 20px;
 }
-.form_content > div > label{
 
+.container #submit {
+  background-color: #50fa7b;
+  color: #282a36;
+  border-color: #50fa7b;
+  border-radius: 8px;
+  padding: 0.5rem;
+}
+#submit:hover {
+  filter: brightness(90%);
 }
 
-.checkbox_form_content_label{
+.form_content > div > label {
+  color: #8be9fd;
+}
+.form_content div {
+  padding: 0.5rem;
+  text-align: center;
+}
 
+.checkbox_form_content_label .txt_gender {
+  color: #f8f8f2;
+}
+
+.checkbox_form_content_label input:hover {
+  filter: brightness(90%);
 }
