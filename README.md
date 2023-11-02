@@ -3,11 +3,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Guilherme Lucas Neves da Silva
+- Matrícula: 20.2.8173
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: 23.2
+- Link para o seu GitHub: https://github.com/GuiNeves00
 
 ## [Projeto final:](./Projeto/README.md)
 
