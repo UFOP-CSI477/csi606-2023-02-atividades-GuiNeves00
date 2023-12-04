@@ -1,7 +1,7 @@
 // Atualiza o seu contador a cada 1 segundo
 const countDown = setInterval(function () {
   // Data para contagem regressiva
-  let countDownDate = new Date("Dec 5, 2023").getTime();
+  let countDownDate = new Date("Feb 10, 2024").getTime();
   console.log("countDownDate: " + countDownDate);
 
   // Encontrando o horário atual
