@@ -1,0 +1,21 @@
+body {
+  background-color: gray;
+}
+.countDown-item {
+  background-color: white;
+}
+
+.countDown {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.countDown-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: stretch;
+  padding: 10px;
+  border: 1px #000 solid;
+}
