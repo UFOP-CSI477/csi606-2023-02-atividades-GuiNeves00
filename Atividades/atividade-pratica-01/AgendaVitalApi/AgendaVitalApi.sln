@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendaVitalApi", "AgendaVitalApi.csproj", "{979EAF07-63F0-4671-837C-19D10B5FA989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979EAF07-63F0-4671-837C-19D10B5FA989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979EAF07-63F0-4671-837C-19D10B5FA989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979EAF07-63F0-4671-837C-19D10B5FA989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979EAF07-63F0-4671-837C-19D10B5FA989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E7E6489-F10B-4AA4-8FF3-9B06730C5E1C}
+	EndGlobalSection
+EndGlobal

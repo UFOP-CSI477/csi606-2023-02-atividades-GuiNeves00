@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/doadores/page": "app/doadores/page.js",
+  "/doadores/[id]/page": "app/doadores/[id]/page.js",
+  "/parametrizacao/page": "app/parametrizacao/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/doacoes/[id]/page": "app/doacoes/[id]/page.js",
+  "/locaiscoleta/page": "app/locaiscoleta/page.js",
+  "/locaiscoleta/[id]/page": "app/locaiscoleta/[id]/page.js"
+}

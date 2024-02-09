@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "koq9GJGGTb8uR4Mu08Ju6XgzLY73+xxwlvLiDZNXBF0=",
+  "Source": "AgendaVitalApi",
+  "BasePath": "_content/AgendaVitalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
