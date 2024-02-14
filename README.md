@@ -11,4 +11,4 @@
 
 ## [Projeto final:](./Projeto/README.md)
 
-Apresente uma breve descrição do seu projeto.
+O meu projeto final consiste de um sistema de gerenciamento de Recursos Humanos, para cadastrar e organizar informações essenciais.
